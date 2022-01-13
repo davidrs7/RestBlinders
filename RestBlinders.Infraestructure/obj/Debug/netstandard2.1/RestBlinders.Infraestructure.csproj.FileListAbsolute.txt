@@ -1,0 +1,12 @@
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\bin\Debug\netstandard2.1\RestBlinders.Infraestructure.deps.json
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\bin\Debug\netstandard2.1\RestBlinders.Infraestructure.dll
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\bin\Debug\netstandard2.1\RestBlinders.Infraestructure.pdb
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\bin\Debug\netstandard2.1\RestBlinders.Core.dll
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\bin\Debug\netstandard2.1\RestBlinders.Core.pdb
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.csprojAssemblyReference.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.AssemblyInfo.cs
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.csproj.CopyComplete
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.dll
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Infraestructure\obj\Debug\netstandard2.1\RestBlinders.Infraestructure.pdb

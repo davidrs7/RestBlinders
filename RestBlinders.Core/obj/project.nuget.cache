@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "olmlvaX11uqbN3wWhrErotyJeQpsBPslEnS0YNq/jM85GIBgukfVT+wUNi/MkwW+z9DoPTPkli0StottuNgjuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Rodriguez\\source\\repos\\RestBlinders\\RestBlinders.Core\\RestBlinders.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Rodriguez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\David Rodriguez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

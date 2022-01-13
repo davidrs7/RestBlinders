@@ -1,0 +1,9 @@
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\bin\Debug\netstandard2.0\RestBlinders.Core.deps.json
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\bin\Debug\netstandard2.0\RestBlinders.Core.dll
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\bin\Debug\netstandard2.0\RestBlinders.Core.pdb
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.csprojAssemblyReference.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.AssemblyInfoInputs.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.AssemblyInfo.cs
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.csproj.CoreCompileInputs.cache
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.dll
+C:\Users\David Rodriguez\source\repos\RestBlinders\RestBlinders.Core\obj\Debug\netstandard2.0\RestBlinders.Core.pdb
